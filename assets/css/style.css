@@ -1,0 +1,94 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    width: 1280px;
+}
+header{
+    background-color: black;  
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    height: 73px;
+    width: auto;
+    margin: 0;
+    padding: 10px;
+}
+
+figure {
+    background-image:url("../imgs/bg-header.jpg");
+    width: 1280px;
+    height: 700px;
+    margin:0;
+    
+}
+main{
+    overflow: auto;
+    text-align: justify;
+    padding: 3%;
+    background-color: black;
+    color: white;
+}
+
+main img{
+    float: right;
+    width: 316px;
+    height: 202px;   
+    padding-right: 9em;
+    padding-top: 7em;
+
+}
+
+main p{
+
+    width: 40%;
+    padding: 8em;
+    margin:0%
+    
+
+}
+
+section{
+    background-color: #1E1A13;
+    color: white;
+    height: 250px;
+    padding-top: 60px;
+}
+
+section h1{
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+
+}
+
+section div{
+    display: inline-block;
+    width: 30%;
+    padding: 1.5%;
+    text-align: center;
+}
+
+section i{
+    font-size: xx-large;
+}
+
+article{
+    background-color: black;
+    padding: 50px;
+    padding-left: 10%;
+    
+
+}
+
+article img{
+    width: 316px;
+    height: 202px;
+    margin-right: 1em;
+}
+
+footer{
+    text-align: center;
+    background-color: #1E1A13;
+    color: white;
+    padding: 15px;
+    
+}
